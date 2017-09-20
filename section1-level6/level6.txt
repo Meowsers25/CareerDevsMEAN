@@ -1,0 +1,1 @@
+This lesson was about managing packages and running NPM
