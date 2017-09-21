@@ -1,3 +1,8 @@
+//defining URL routes
+//returning status codes
+//responding with data
+//sending HTML response
+
 var express = require('express');
 var app = express();
 var path = require('path');

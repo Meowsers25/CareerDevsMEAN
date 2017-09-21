@@ -1,3 +1,10 @@
+//Setting up Express to listen
+//adding Express to the app
+//defining a port to listen on
+//using application variables
+//validating that Express is listening
+//Express is the web application framework in the MEAN stack
+
 var express = require('express');
 var app = express();
 

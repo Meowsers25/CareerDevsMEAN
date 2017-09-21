@@ -1,3 +1,9 @@
+//Node.js: require and module.exports
+
+//splitting Node applications into multiple files
+//using require to load in files
+//exposing functionality using module.exports
+
 require('./instanthello');
 var goodbye = require('./talk/goodbye');
 var talk = require('./talk');
