@@ -12,6 +12,7 @@ var routes = require('./api/routes');
 
 var bodyParser = require('body-parser');
 
+//test nodem
 
 app.set('port', 3000);
 
